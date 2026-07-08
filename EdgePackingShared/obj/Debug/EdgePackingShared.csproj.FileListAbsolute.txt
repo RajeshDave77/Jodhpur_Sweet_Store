@@ -1,0 +1,77 @@
+G:\EdgeSolutions\EdgePacking\EdgePackingShared\bin\Debug\EdgePackingShared.dll
+G:\EdgeSolutions\EdgePacking\EdgePackingShared\bin\Debug\EdgePackingShared.pdb
+G:\EdgeSolutions\EdgePacking\EdgePackingShared\obj\Debug\EdgePackingShared.dll
+G:\EdgeSolutions\EdgePacking\EdgePackingShared\obj\Debug\EdgePackingShared.pdb
+G:\EdgeSolutions\EdgePacking\EdgePackingShared\obj\Debug\EdgePackingShared.csprojResolveAssemblyReference.cache
+F:\EdgePacking\EdgePackingShared\bin\Debug\EdgePackingShared.dll
+F:\EdgePacking\EdgePackingShared\bin\Debug\EdgePackingShared.pdb
+F:\EdgePacking\EdgePackingShared\obj\Debug\EdgePackingShared.dll
+F:\EdgePacking\EdgePackingShared\obj\Debug\EdgePackingShared.pdb
+F:\Sharad\Edgepackging\EdgePacking\EdgePackingShared\bin\Debug\EdgePackingShared.dll
+F:\Sharad\Edgepackging\EdgePacking\EdgePackingShared\bin\Debug\EdgePackingShared.pdb
+F:\Sharad\Edgepackging\EdgePacking\EdgePackingShared\obj\Debug\EdgePackingShared.dll
+F:\Sharad\Edgepackging\EdgePacking\EdgePackingShared\obj\Debug\EdgePackingShared.pdb
+F:\Sharad\Edgepackging\EdgePacking\EdgePackingShared\obj\Debug\EdgePackingShared.csprojResolveAssemblyReference.cache
+C:\Users\komal\Desktop\Today\EdgePacking\EdgePackingShared\bin\Debug\EdgePackingShared.dll
+C:\Users\komal\Desktop\Today\EdgePacking\EdgePackingShared\bin\Debug\EdgePackingShared.pdb
+C:\Users\komal\Desktop\Today\EdgePacking\EdgePackingShared\obj\Debug\EdgePackingShared.csprojResolveAssemblyReference.cache
+C:\Users\komal\Desktop\Today\EdgePacking\EdgePackingShared\obj\Debug\EdgePackingShared.dll
+C:\Users\komal\Desktop\Today\EdgePacking\EdgePackingShared\obj\Debug\EdgePackingShared.pdb
+F:\Sharad\15 AD\EdgePacking\EdgePackingShared\bin\Debug\EdgePackingShared.dll
+F:\Sharad\15 AD\EdgePacking\EdgePackingShared\bin\Debug\EdgePackingShared.pdb
+F:\Sharad\15 AD\EdgePacking\EdgePackingShared\obj\Debug\EdgePackingShared.csprojResolveAssemblyReference.cache
+F:\Sharad\15 AD\EdgePacking\EdgePackingShared\obj\Debug\EdgePackingShared.dll
+F:\Sharad\15 AD\EdgePacking\EdgePackingShared\obj\Debug\EdgePackingShared.pdb
+D:\15AD\EdgePacking\EdgePackingShared\bin\Debug\EdgePackingShared.dll
+D:\15AD\EdgePacking\EdgePackingShared\bin\Debug\EdgePackingShared.pdb
+D:\15AD\EdgePacking\EdgePackingShared\obj\Debug\EdgePackingShared.csprojResolveAssemblyReference.cache
+D:\15AD\EdgePacking\EdgePackingShared\obj\Debug\EdgePackingShared.dll
+D:\15AD\EdgePacking\EdgePackingShared\obj\Debug\EdgePackingShared.pdb
+C:\Users\Shivam\Desktop\15AD\EdgePacking\EdgePackingShared\bin\Debug\EdgePackingShared.dll
+C:\Users\Shivam\Desktop\15AD\EdgePacking\EdgePackingShared\bin\Debug\EdgePackingShared.pdb
+C:\Users\Shivam\Desktop\15AD\EdgePacking\EdgePackingShared\obj\Debug\EdgePackingShared.csprojResolveAssemblyReference.cache
+C:\Users\Shivam\Desktop\15AD\EdgePacking\EdgePackingShared\obj\Debug\EdgePackingShared.dll
+C:\Users\Shivam\Desktop\15AD\EdgePacking\EdgePackingShared\obj\Debug\EdgePackingShared.pdb
+C:\Users\komal\Desktop\15adon18july\15AD\EdgePacking\EdgePackingShared\bin\Debug\EdgePackingShared.dll
+C:\Users\komal\Desktop\15adon18july\15AD\EdgePacking\EdgePackingShared\bin\Debug\EdgePackingShared.pdb
+C:\Users\komal\Desktop\15adon18july\15AD\EdgePacking\EdgePackingShared\obj\Debug\EdgePackingShared.csprojResolveAssemblyReference.cache
+C:\Users\komal\Desktop\15adon18july\15AD\EdgePacking\EdgePackingShared\obj\Debug\EdgePackingShared.dll
+C:\Users\komal\Desktop\15adon18july\15AD\EdgePacking\EdgePackingShared\obj\Debug\EdgePackingShared.pdb
+F:\rajesh\15 AD\15 AD\EdgePackingShared\bin\Debug\EdgePackingShared.dll
+F:\rajesh\15 AD\15 AD\EdgePackingShared\bin\Debug\EdgePackingShared.pdb
+F:\rajesh\15 AD\15 AD\EdgePackingShared\obj\Debug\EdgePackingShared.dll
+F:\rajesh\15 AD\15 AD\EdgePackingShared\obj\Debug\EdgePackingShared.pdb
+E:\Sharad\15 AD\EdgePackingShared\bin\Debug\EdgePackingShared.dll
+E:\Sharad\15 AD\EdgePackingShared\bin\Debug\EdgePackingShared.pdb
+E:\Sharad\15 AD\EdgePackingShared\obj\Debug\EdgePackingShared.dll
+E:\Sharad\15 AD\EdgePackingShared\obj\Debug\EdgePackingShared.pdb
+F:\rajesh\15 AD\EdgePackingShared\bin\Debug\EdgePackingShared.dll
+F:\rajesh\15 AD\EdgePackingShared\bin\Debug\EdgePackingShared.pdb
+F:\rajesh\15 AD\EdgePackingShared\obj\Debug\EdgePackingShared.dll
+F:\rajesh\15 AD\EdgePackingShared\obj\Debug\EdgePackingShared.pdb
+F:\rajesh\15 AD\EdgePackingShared\obj\Debug\EdgePackingShared.csprojResolveAssemblyReference.cache
+E:\E DATA\Rajesh Dave\15 AD\EdgePackingShared\bin\Debug\EdgePackingShared.dll
+E:\E DATA\Rajesh Dave\15 AD\EdgePackingShared\bin\Debug\EdgePackingShared.pdb
+E:\E DATA\Rajesh Dave\15 AD\EdgePackingShared\obj\Debug\EdgePackingShared.csprojResolveAssemblyReference.cache
+E:\E DATA\Rajesh Dave\15 AD\EdgePackingShared\obj\Debug\EdgePackingShared.dll
+E:\E DATA\Rajesh Dave\15 AD\EdgePackingShared\obj\Debug\EdgePackingShared.pdb
+D:\Rajesh Dave\15 AD\EdgePackingShared\bin\Debug\EdgePackingShared.dll
+D:\Rajesh Dave\15 AD\EdgePackingShared\bin\Debug\EdgePackingShared.pdb
+D:\Rajesh Dave\15 AD\EdgePackingShared\obj\Debug\EdgePackingShared.dll
+D:\Rajesh Dave\15 AD\EdgePackingShared\obj\Debug\EdgePackingShared.pdb
+D:\Rajesh Dave\15 AD\EdgePackingShared\obj\Debug\EdgePackingShared.csprojResolveAssemblyReference.cache
+D:\Rajesh Dave\15 AD Store\EdgePackingShared\bin\Debug\EdgePackingShared.dll
+D:\Rajesh Dave\15 AD Store\EdgePackingShared\bin\Debug\EdgePackingShared.pdb
+D:\Rajesh Dave\15 AD Store\EdgePackingShared\obj\Debug\EdgePackingShared.csprojResolveAssemblyReference.cache
+D:\Rajesh Dave\15 AD Store\EdgePackingShared\obj\Debug\EdgePackingShared.dll
+D:\Rajesh Dave\15 AD Store\EdgePackingShared\obj\Debug\EdgePackingShared.pdb
+D:\Rajesh Dave\Lapinoz\EdgePackingShared\bin\Debug\EdgePackingShared.dll
+D:\Rajesh Dave\Lapinoz\EdgePackingShared\bin\Debug\EdgePackingShared.pdb
+D:\Rajesh Dave\Lapinoz\EdgePackingShared\obj\Debug\EdgePackingShared.csprojResolveAssemblyReference.cache
+D:\Rajesh Dave\Lapinoz\EdgePackingShared\obj\Debug\EdgePackingShared.dll
+D:\Rajesh Dave\Lapinoz\EdgePackingShared\obj\Debug\EdgePackingShared.pdb
+D:\Rajesh Dave\Software\Jodhpur Sweets Store\EdgePackingShared\bin\Debug\EdgePackingShared.dll
+D:\Rajesh Dave\Software\Jodhpur Sweets Store\EdgePackingShared\bin\Debug\EdgePackingShared.pdb
+D:\Rajesh Dave\Software\Jodhpur Sweets Store\EdgePackingShared\obj\Debug\EdgePackingShared.csprojResolveAssemblyReference.cache
+D:\Rajesh Dave\Software\Jodhpur Sweets Store\EdgePackingShared\obj\Debug\EdgePackingShared.dll
+D:\Rajesh Dave\Software\Jodhpur Sweets Store\EdgePackingShared\obj\Debug\EdgePackingShared.pdb

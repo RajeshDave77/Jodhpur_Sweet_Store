@@ -1,0 +1,12 @@
+20161025-08:45:39.978 00001C50 - ERROR: ERROR SetThreadDesktop(172) 170
+20161125-12:41:23.027 0000324C - ERROR: ERROR 10054 -1 in TransportTCP2::ReadExact()#2 in Vr::run_un
+20161125-12:42:04.259 000013F0 - ERROR: ERROR 10054 -1 in TransportTCP1::ReadExact()#2 in TrClient::Run()#239
+20161125-12:42:29.436 00002078 - ERROR: Couldn't connect to routers 173.224.123.242:443,80,8080|209.239.123.75:443,80,8080|88.198.6.55:443,80,8080|
+20161125-12:48:35.682 00002498 - ERROR: ERROR 0 0 in TransportTCP2::ReadExact()#2 in Vr::run_un
+20161125-13:19:56.308 00002B58 - ERROR: Error {12007} occured while connecting to server "http://rl.ammyy.com" 
+20161125-13:21:00.460 00002E9C - ERROR: Error {12007} occured while connecting to server "http://rl.ammyy.com" 
+20161125-13:22:16.219 00001188 - ERROR: Error {12007} occured while connecting to server "http://rl.ammyy.com" 
+20161125-13:29:35.557 00000920 - ERROR: ERROR 10054 -1 in TransportTCP2::ReadExact()#2 in Vr::run_un
+20161125-13:29:51.191 00000F70 - ERROR: ERROR 10054 -1 in TransportTCP1::ReadExact()#2 in TrClient::Run()#239
+20161125-13:31:00.582 00002A7C - ERROR: Couldn't connect to routers 173.224.123.242:443,80,8080|209.239.123.75:443,80,8080|88.198.6.55:443,80,8080|
+20161219-17:41:33.044 00000EFC - ERROR: ERROR SetThreadDesktop(220) 170

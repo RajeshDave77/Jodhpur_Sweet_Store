@@ -1,0 +1,235 @@
+F:\Sharad\Edgepackging\EdgePacking\EdgePackaging\bin\Debug\EdgePackaging.exe.config
+F:\Sharad\Edgepackging\EdgePacking\EdgePackaging\bin\Debug\EdgePackaging.exe.manifest
+F:\Sharad\Edgepackging\EdgePacking\EdgePackaging\bin\Debug\EdgePackaging.application
+F:\Sharad\Edgepackging\EdgePacking\EdgePackaging\bin\Debug\EdgePackaging.exe
+F:\Sharad\Edgepackging\EdgePacking\EdgePackaging\bin\Debug\EdgePackaging.pdb
+F:\Sharad\Edgepackging\EdgePacking\EdgePackaging\bin\Debug\EdgePackingShared.dll
+F:\Sharad\Edgepackging\EdgePacking\EdgePackaging\bin\Debug\EdgePackingShared.pdb
+F:\Sharad\Edgepackging\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.csprojResolveAssemblyReference.cache
+F:\Sharad\Edgepackging\EdgePacking\EdgePackaging\obj\Debug\Interop.COMAdmin.dll
+F:\Sharad\Edgepackging\EdgePacking\EdgePackaging\obj\Debug\Interop.COMSVCSLib.dll
+F:\Sharad\Edgepackging\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.csproj.ResolveComReference.cache
+F:\Sharad\Edgepackging\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.Challan.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.CostCalSqmMaster.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.FrmCostHeadMaster.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.FrmCostSheet.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frmCrystalReport.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.FrmProfitCalculation.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.lab_mgmt.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.bill_for_paper_roll.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.Invoice.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.IssueForm.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePackaging\obj\Debug\EdgeVastra.Form1.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePackaging\obj\Debug\EdgeVastra.Lagermaster.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePackaging\obj\Debug\EdgeVastra.MainIndex.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePackaging\obj\Debug\EdgeVastra.MasterForm.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.PaperRateMaster.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePackaging\obj\Debug\EdgeVastra.ProductMaster.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.Properties.Resources.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.Purchase.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.SalesOrder.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.SheetCutting.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.SheetCuttingMaster.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.csproj.GenerateResource.Cache
+F:\Sharad\Edgepackging\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.exe.manifest
+F:\Sharad\Edgepackging\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.application
+F:\Sharad\Edgepackging\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.exe
+F:\Sharad\Edgepackging\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.pdb
+F:\Sharad\Edgepackging\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frmVoucher.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frmtransactionSalesWithTextBox.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frmtransactionWithTextBox.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frmUser.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.MilkMemberPayment.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.MemberLedgerReport.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frmBulkDispachChallan.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frmInvSubGroup.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.DailyReport.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frmmilkprocSearch.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frmmisreportsnew.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frmHeadMaster.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frmmilkproc.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frmmilkdesp.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frminventory.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frmledger.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frmmastercommon.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frmroute.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frmtransactionSales.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frmtransaction.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frmCompanyMaster.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.PrintPreview.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.BalanceSheet.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.RateListMaster.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.TestGrid.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.TestObjectListView.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.Profit_Loss.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.TrailBalanceForm.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.Ledge_Master.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.HSN_CategoryMaster.resources
+C:\Users\komal\Desktop\Today\EdgePacking\EdgePackaging\bin\Debug\EdgePackaging.exe.config
+C:\Users\komal\Desktop\Today\EdgePacking\EdgePackaging\obj\Debug\Interop.COMAdmin.dll
+C:\Users\komal\Desktop\Today\EdgePacking\EdgePackaging\obj\Debug\Interop.COMSVCSLib.dll
+C:\Users\komal\Desktop\Today\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.csproj.ResolveComReference.cache
+C:\Users\komal\Desktop\Today\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.exe
+C:\Users\komal\Desktop\Today\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.pdb
+C:\Users\komal\Desktop\Today\EdgePacking\EdgePackaging\bin\Debug\EdgePackaging.exe.manifest
+C:\Users\komal\Desktop\Today\EdgePacking\EdgePackaging\bin\Debug\EdgePackaging.application
+C:\Users\komal\Desktop\Today\EdgePacking\EdgePackaging\bin\Debug\EdgePackaging.exe
+C:\Users\komal\Desktop\Today\EdgePacking\EdgePackaging\bin\Debug\EdgePackaging.pdb
+C:\Users\komal\Desktop\Today\EdgePacking\EdgePackaging\bin\Debug\EdgePackingShared.dll
+C:\Users\komal\Desktop\Today\EdgePacking\EdgePackaging\bin\Debug\EdgePackingShared.pdb
+C:\Users\komal\Desktop\Today\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.Challan.resources
+C:\Users\komal\Desktop\Today\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.CostCalSqmMaster.resources
+C:\Users\komal\Desktop\Today\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.FrmCostHeadMaster.resources
+C:\Users\komal\Desktop\Today\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.FrmCostSheet.resources
+C:\Users\komal\Desktop\Today\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frmCrystalReport.resources
+C:\Users\komal\Desktop\Today\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.FrmProfitCalculation.resources
+C:\Users\komal\Desktop\Today\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frmVoucher.resources
+C:\Users\komal\Desktop\Today\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.HSN_CategoryMaster.resources
+C:\Users\komal\Desktop\Today\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.lab_mgmt.resources
+C:\Users\komal\Desktop\Today\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.bill_for_paper_roll.resources
+C:\Users\komal\Desktop\Today\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frmtransactionSalesWithTextBox.resources
+C:\Users\komal\Desktop\Today\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frmtransactionWithTextBox.resources
+C:\Users\komal\Desktop\Today\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frmUser.resources
+C:\Users\komal\Desktop\Today\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.Invoice.resources
+C:\Users\komal\Desktop\Today\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.IssueForm.resources
+C:\Users\komal\Desktop\Today\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.Ledge_Master.resources
+C:\Users\komal\Desktop\Today\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.MilkMemberPayment.resources
+C:\Users\komal\Desktop\Today\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.MemberLedgerReport.resources
+C:\Users\komal\Desktop\Today\EdgePacking\EdgePackaging\obj\Debug\EdgeVastra.Form1.resources
+C:\Users\komal\Desktop\Today\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frmBulkDispachChallan.resources
+C:\Users\komal\Desktop\Today\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frmInvSubGroup.resources
+C:\Users\komal\Desktop\Today\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.DailyReport.resources
+C:\Users\komal\Desktop\Today\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frmmilkprocSearch.resources
+C:\Users\komal\Desktop\Today\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frmmisreportsnew.resources
+C:\Users\komal\Desktop\Today\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frmHeadMaster.resources
+C:\Users\komal\Desktop\Today\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frmmilkproc.resources
+C:\Users\komal\Desktop\Today\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frmmilkdesp.resources
+C:\Users\komal\Desktop\Today\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frminventory.resources
+C:\Users\komal\Desktop\Today\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frmledger.resources
+C:\Users\komal\Desktop\Today\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frmmastercommon.resources
+C:\Users\komal\Desktop\Today\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frmroute.resources
+C:\Users\komal\Desktop\Today\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frmtransactionSales.resources
+C:\Users\komal\Desktop\Today\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frmtransaction.resources
+C:\Users\komal\Desktop\Today\EdgePacking\EdgePackaging\obj\Debug\EdgeVastra.Lagermaster.resources
+C:\Users\komal\Desktop\Today\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frmCompanyMaster.resources
+C:\Users\komal\Desktop\Today\EdgePacking\EdgePackaging\obj\Debug\EdgeVastra.MainIndex.resources
+C:\Users\komal\Desktop\Today\EdgePacking\EdgePackaging\obj\Debug\EdgeVastra.MasterForm.resources
+C:\Users\komal\Desktop\Today\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.PaperRateMaster.resources
+C:\Users\komal\Desktop\Today\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.PrintPreview.resources
+C:\Users\komal\Desktop\Today\EdgePacking\EdgePackaging\obj\Debug\EdgeVastra.ProductMaster.resources
+C:\Users\komal\Desktop\Today\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.BalanceSheet.resources
+C:\Users\komal\Desktop\Today\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.Properties.Resources.resources
+C:\Users\komal\Desktop\Today\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.Purchase.resources
+C:\Users\komal\Desktop\Today\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.RateListMaster.resources
+C:\Users\komal\Desktop\Today\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.SalesOrder.resources
+C:\Users\komal\Desktop\Today\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.SheetCutting.resources
+C:\Users\komal\Desktop\Today\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.SheetCuttingMaster.resources
+C:\Users\komal\Desktop\Today\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.TestGrid.resources
+C:\Users\komal\Desktop\Today\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.TestObjectListView.resources
+C:\Users\komal\Desktop\Today\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.Profit_Loss.resources
+C:\Users\komal\Desktop\Today\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.TrailBalanceForm.resources
+C:\Users\komal\Desktop\Today\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.csproj.GenerateResource.Cache
+C:\Users\komal\Desktop\Today\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.exe.manifest
+C:\Users\komal\Desktop\Today\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.application
+C:\Users\komal\Desktop\Today\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.csprojResolveAssemblyReference.cache
+F:\Sharad\Edgepackging\EdgePacking\EdgePacking\EdgePackaging\bin\Debug\EdgePackaging.exe.config
+F:\Sharad\Edgepackging\EdgePacking\EdgePacking\EdgePackaging\obj\Debug\Interop.COMAdmin.dll
+F:\Sharad\Edgepackging\EdgePacking\EdgePacking\EdgePackaging\obj\Debug\Interop.COMSVCSLib.dll
+F:\Sharad\Edgepackging\EdgePacking\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.csproj.ResolveComReference.cache
+F:\Sharad\Edgepackging\EdgePacking\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.exe
+F:\Sharad\Edgepackging\EdgePacking\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.pdb
+F:\Sharad\Edgepackging\EdgePacking\EdgePacking\EdgePackaging\bin\Debug\EdgePackaging.exe.manifest
+F:\Sharad\Edgepackging\EdgePacking\EdgePacking\EdgePackaging\bin\Debug\EdgePackaging.application
+F:\Sharad\Edgepackging\EdgePacking\EdgePacking\EdgePackaging\bin\Debug\EdgePackaging.exe
+F:\Sharad\Edgepackging\EdgePacking\EdgePacking\EdgePackaging\bin\Debug\EdgePackaging.pdb
+F:\Sharad\Edgepackging\EdgePacking\EdgePacking\EdgePackaging\bin\Debug\EdgePackingShared.dll
+F:\Sharad\Edgepackging\EdgePacking\EdgePacking\EdgePackaging\bin\Debug\EdgePackingShared.pdb
+F:\Sharad\Edgepackging\EdgePacking\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.csprojResolveAssemblyReference.cache
+F:\Sharad\Edgepackging\EdgePacking\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.Challan.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.CostCalSqmMaster.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.FrmCostHeadMaster.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.FrmCostSheet.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frmCrystalReport.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.FrmProfitCalculation.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frmVoucher.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.HSN_CategoryMaster.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.lab_mgmt.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.bill_for_paper_roll.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frmtransactionSalesWithTextBox.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frmtransactionWithTextBox.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frmUser.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.Invoice.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.IssueForm.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.Ledge_Master.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.MilkMemberPayment.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.MemberLedgerReport.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePacking\EdgePackaging\obj\Debug\EdgeVastra.Form1.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frmBulkDispachChallan.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frmInvSubGroup.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.DailyReport.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frmmilkprocSearch.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frmmisreportsnew.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frmHeadMaster.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frmmilkproc.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frmmilkdesp.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frminventory.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frmledger.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frmmastercommon.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frmroute.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frmtransactionSales.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frmtransaction.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePacking\EdgePackaging\obj\Debug\EdgeVastra.Lagermaster.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frmCompanyMaster.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePacking\EdgePackaging\obj\Debug\EdgeVastra.MainIndex.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePacking\EdgePackaging\obj\Debug\EdgeVastra.MasterForm.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.PaperRateMaster.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.PrintPreview.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePacking\EdgePackaging\obj\Debug\EdgeVastra.ProductMaster.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.BalanceSheet.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.Properties.Resources.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.Purchase.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.RateListMaster.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.SalesOrder.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.SheetCutting.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.SheetCuttingMaster.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.TestGrid.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.TestObjectListView.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.Profit_Loss.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.TrailBalanceForm.resources
+F:\Sharad\Edgepackging\EdgePacking\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.csproj.GenerateResource.Cache
+F:\Sharad\Edgepackging\EdgePacking\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.exe.manifest
+F:\Sharad\Edgepackging\EdgePacking\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.application
+F:\Sharad\15 AD\EdgePacking\EdgePackaging\bin\Debug\EdgePackaging.exe.config
+F:\Sharad\15 AD\EdgePacking\EdgePackaging\obj\Debug\Interop.COMAdmin.dll
+F:\Sharad\15 AD\EdgePacking\EdgePackaging\obj\Debug\Interop.COMSVCSLib.dll
+F:\Sharad\15 AD\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.csproj.ResolveComReference.cache
+F:\Sharad\15 AD\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.exe
+F:\Sharad\15 AD\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.pdb
+F:\Sharad\15 AD\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.csprojResolveAssemblyReference.cache
+F:\Sharad\15 AD\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.Challan.resources
+F:\Sharad\15 AD\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frmCrystalReport.resources
+F:\Sharad\15 AD\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frmVoucher.resources
+F:\Sharad\15 AD\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.HSN_CategoryMaster.resources
+F:\Sharad\15 AD\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.bill_for_paper_roll.resources
+F:\Sharad\15 AD\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frmUser.resources
+F:\Sharad\15 AD\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.Ledge_Master.resources
+F:\Sharad\15 AD\EdgePacking\EdgePackaging\obj\Debug\EdgeVastra.Form1.resources
+F:\Sharad\15 AD\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frmBulkDispachChallan.resources
+F:\Sharad\15 AD\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frmInvSubGroup.resources
+F:\Sharad\15 AD\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.DailyReport.resources
+F:\Sharad\15 AD\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frmHeadMaster.resources
+F:\Sharad\15 AD\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frminventory.resources
+F:\Sharad\15 AD\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frmledger.resources
+F:\Sharad\15 AD\EdgePacking\EdgePackaging\obj\Debug\EdgeVastra.Lagermaster.resources
+F:\Sharad\15 AD\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frmCompanyMaster.resources
+F:\Sharad\15 AD\EdgePacking\EdgePackaging\obj\Debug\EdgeVastra.MainIndex.resources
+F:\Sharad\15 AD\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.PrintPreview.resources
+F:\Sharad\15 AD\EdgePacking\EdgePackaging\obj\Debug\EdgeVastra.ProductMaster.resources
+F:\Sharad\15 AD\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.BalanceSheet.resources
+F:\Sharad\15 AD\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.Properties.Resources.resources
+F:\Sharad\15 AD\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.Purchase.resources
+F:\Sharad\15 AD\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.RateListMaster.resources
+F:\Sharad\15 AD\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.TestGrid.resources
+F:\Sharad\15 AD\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.TestObjectListView.resources
+F:\Sharad\15 AD\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.Profit_Loss.resources
+F:\Sharad\15 AD\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.csproj.GenerateResource.Cache

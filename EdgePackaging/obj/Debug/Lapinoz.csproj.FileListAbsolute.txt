@@ -1,0 +1,52 @@
+D:\Rajesh Dave\Lapinoz\EdgePackaging\obj\Debug\Interop.COMAdmin.dll
+D:\Rajesh Dave\Lapinoz\EdgePackaging\obj\Debug\Interop.COMSVCSLib.dll
+D:\Rajesh Dave\Lapinoz\EdgePackaging\obj\Debug\Lapinoz.csproj.ResolveComReference.cache
+D:\Rajesh Dave\Lapinoz\EdgePackaging\bin\Debug\Lapinoz Store Software.exe.config
+D:\Rajesh Dave\Lapinoz\EdgePackaging\bin\Debug\Lapinoz Store Software.exe.manifest
+D:\Rajesh Dave\Lapinoz\EdgePackaging\bin\Debug\Lapinoz Store Software.application
+D:\Rajesh Dave\Lapinoz\EdgePackaging\bin\Debug\Lapinoz Store Software.exe
+D:\Rajesh Dave\Lapinoz\EdgePackaging\bin\Debug\Lapinoz Store Software.pdb
+D:\Rajesh Dave\Lapinoz\EdgePackaging\bin\Debug\EdgePackingShared.dll
+D:\Rajesh Dave\Lapinoz\EdgePackaging\bin\Debug\EdgePackingShared.pdb
+D:\Rajesh Dave\Lapinoz\EdgePackaging\obj\Debug\Lapinoz.csprojResolveAssemblyReference.cache
+D:\Rajesh Dave\Lapinoz\EdgePackaging\obj\Debug\EdgePackaging.frmAllBillPrint.resources
+D:\Rajesh Dave\Lapinoz\EdgePackaging\obj\Debug\EdgePackaging.frmBarcodePrinting.resources
+D:\Rajesh Dave\Lapinoz\EdgePackaging\obj\Debug\EdgePackaging.frmDayEnd.resources
+D:\Rajesh Dave\Lapinoz\EdgePackaging\obj\Debug\EdgePackaging.frmHSNReport.resources
+D:\Rajesh Dave\Lapinoz\EdgePackaging\obj\Debug\EdgePackaging.frminventory.resources
+D:\Rajesh Dave\Lapinoz\EdgePackaging\obj\Debug\EdgePackaging.frmMinStockReport.resources
+D:\Rajesh Dave\Lapinoz\EdgePackaging\obj\Debug\EdgePackaging.frmPurchaseReport.resources
+D:\Rajesh Dave\Lapinoz\EdgePackaging\obj\Debug\EdgePackaging.frmSalesReport.resources
+D:\Rajesh Dave\Lapinoz\EdgePackaging\obj\Debug\EdgePackaging.frmSelectCompany.resources
+D:\Rajesh Dave\Lapinoz\EdgePackaging\obj\Debug\EdgePackaging.frmSelectFinYear.resources
+D:\Rajesh Dave\Lapinoz\EdgePackaging\obj\Debug\EdgePackaging.frmStockReport.resources
+D:\Rajesh Dave\Lapinoz\EdgePackaging\obj\Debug\EdgePackaging.frmTaxReport.resources
+D:\Rajesh Dave\Lapinoz\EdgePackaging\obj\Debug\EdgePackaging.NewPurchaseInvoice.resources
+D:\Rajesh Dave\Lapinoz\EdgePackaging\obj\Debug\EdgePackaging.PrintReport.resources
+D:\Rajesh Dave\Lapinoz\EdgePackaging\obj\Debug\EdgePackaging.PurchaseInvoice.resources
+D:\Rajesh Dave\Lapinoz\EdgePackaging\obj\Debug\EdgePackaging.SalesForm.resources
+D:\Rajesh Dave\Lapinoz\EdgePackaging\obj\Debug\EdgePackaging.frmCrystalReport.resources
+D:\Rajesh Dave\Lapinoz\EdgePackaging\obj\Debug\EdgePackaging.frmmastercommon.resources
+D:\Rajesh Dave\Lapinoz\EdgePackaging\obj\Debug\EdgePackaging.HSN_CategoryMaster.resources
+D:\Rajesh Dave\Lapinoz\EdgePackaging\obj\Debug\EdgePackaging.frmUser.resources
+D:\Rajesh Dave\Lapinoz\EdgePackaging\obj\Debug\EdgeVastra.Form1.resources
+D:\Rajesh Dave\Lapinoz\EdgePackaging\obj\Debug\EdgePackaging.frmInvSubGroup.resources
+D:\Rajesh Dave\Lapinoz\EdgePackaging\obj\Debug\EdgePackaging.frmHeadMaster.resources
+D:\Rajesh Dave\Lapinoz\EdgePackaging\obj\Debug\EdgePackaging.frmledger.resources
+D:\Rajesh Dave\Lapinoz\EdgePackaging\obj\Debug\EdgePackaging.frmCompanyMaster.resources
+D:\Rajesh Dave\Lapinoz\EdgePackaging\obj\Debug\EdgeVastra.MainIndex.resources
+D:\Rajesh Dave\Lapinoz\EdgePackaging\obj\Debug\EdgePackaging.Properties.Resources.resources
+D:\Rajesh Dave\Lapinoz\EdgePackaging\obj\Debug\Lapinoz.csproj.GenerateResource.Cache
+D:\Rajesh Dave\Lapinoz\EdgePackaging\obj\Debug\Lapinoz Store Software.exe.manifest
+D:\Rajesh Dave\Lapinoz\EdgePackaging\obj\Debug\Lapinoz Store Software.application
+D:\Rajesh Dave\Lapinoz\EdgePackaging\obj\Debug\Lapinoz Store Software.exe
+D:\Rajesh Dave\Lapinoz\EdgePackaging\obj\Debug\Lapinoz Store Software.pdb
+D:\Rajesh Dave\Lapinoz\EdgePackaging\obj\Debug\EdgePackaging.frmledger1.resources
+D:\Rajesh Dave\Lapinoz\EdgePackaging\obj\Debug\EdgePackaging.frmPayment1.resources
+D:\Rajesh Dave\Lapinoz\EdgePackaging\obj\Debug\EdgePackaging.frmOP.resources
+D:\Rajesh Dave\Lapinoz\EdgePackaging\obj\Debug\EdgePackaging.frmStockReportEx.resources
+D:\Rajesh Dave\Lapinoz\EdgePackaging\obj\Debug\EdgePackaging.frmDemandReport.resources
+D:\Rajesh Dave\Lapinoz\EdgePackaging\obj\Debug\EdgePackaging.frmMinLevel.resources
+D:\Rajesh Dave\Lapinoz\EdgePackaging\obj\Debug\EdgePackaging.frmledger2.resources
+D:\Rajesh Dave\Lapinoz\EdgePackaging\obj\Debug\EdgePackaging.frmAtt.resources
+D:\Rajesh Dave\Lapinoz\EdgePackaging\obj\Debug\EdgePackaging.frmSalary.resources

@@ -1,0 +1,4 @@
+﻿The mappings for the solution could not be found.
+The active solution has been temporarily disconnected from source control because the server is unavailable.  To attempt to reconnect to source control, close and then re-open the solution when the server is available.  If you want to connect this solution to another server, use the Change Source Control dialog.
+The mappings for the solution could not be found.
+The active solution has been temporarily disconnected from source control because the server is unavailable.  To attempt to reconnect to source control, close and then re-open the solution when the server is available.  If you want to connect this solution to another server, use the Change Source Control dialog.

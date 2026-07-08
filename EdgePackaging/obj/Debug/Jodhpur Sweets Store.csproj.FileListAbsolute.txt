@@ -1,0 +1,57 @@
+D:\Rajesh Dave\Software\Jodhpur Sweets Store\EdgePackaging\bin\Debug\Jodhpur Sweets Store Software.exe.config
+D:\Rajesh Dave\Software\Jodhpur Sweets Store\EdgePackaging\bin\Debug\Jodhpur Sweets Store Software.exe.manifest
+D:\Rajesh Dave\Software\Jodhpur Sweets Store\EdgePackaging\bin\Debug\Jodhpur Sweets Store Software.application
+D:\Rajesh Dave\Software\Jodhpur Sweets Store\EdgePackaging\bin\Debug\Jodhpur Sweets Store Software.exe
+D:\Rajesh Dave\Software\Jodhpur Sweets Store\EdgePackaging\bin\Debug\Jodhpur Sweets Store Software.pdb
+D:\Rajesh Dave\Software\Jodhpur Sweets Store\EdgePackaging\bin\Debug\EdgePackingShared.dll
+D:\Rajesh Dave\Software\Jodhpur Sweets Store\EdgePackaging\bin\Debug\EdgePackingShared.pdb
+D:\Rajesh Dave\Software\Jodhpur Sweets Store\EdgePackaging\obj\Debug\Interop.COMAdmin.dll
+D:\Rajesh Dave\Software\Jodhpur Sweets Store\EdgePackaging\obj\Debug\Interop.COMSVCSLib.dll
+D:\Rajesh Dave\Software\Jodhpur Sweets Store\EdgePackaging\obj\Debug\Jodhpur Sweets Store.csproj.ResolveComReference.cache
+D:\Rajesh Dave\Software\Jodhpur Sweets Store\EdgePackaging\obj\Debug\EdgePackaging.frmAllBillPrint.resources
+D:\Rajesh Dave\Software\Jodhpur Sweets Store\EdgePackaging\obj\Debug\EdgePackaging.frmAtt.resources
+D:\Rajesh Dave\Software\Jodhpur Sweets Store\EdgePackaging\obj\Debug\EdgePackaging.frmBarcodePrinting.resources
+D:\Rajesh Dave\Software\Jodhpur Sweets Store\EdgePackaging\obj\Debug\EdgePackaging.frmBinReport.resources
+D:\Rajesh Dave\Software\Jodhpur Sweets Store\EdgePackaging\obj\Debug\EdgePackaging.frmDayEnd.resources
+D:\Rajesh Dave\Software\Jodhpur Sweets Store\EdgePackaging\obj\Debug\EdgePackaging.frmDemandReport.resources
+D:\Rajesh Dave\Software\Jodhpur Sweets Store\EdgePackaging\obj\Debug\EdgePackaging.frmHSNReport.resources
+D:\Rajesh Dave\Software\Jodhpur Sweets Store\EdgePackaging\obj\Debug\EdgePackaging.frminventory.resources
+D:\Rajesh Dave\Software\Jodhpur Sweets Store\EdgePackaging\obj\Debug\EdgePackaging.frmledger1.resources
+D:\Rajesh Dave\Software\Jodhpur Sweets Store\EdgePackaging\obj\Debug\EdgePackaging.frmledger2.resources
+D:\Rajesh Dave\Software\Jodhpur Sweets Store\EdgePackaging\obj\Debug\EdgePackaging.frmMinLevel.resources
+D:\Rajesh Dave\Software\Jodhpur Sweets Store\EdgePackaging\obj\Debug\EdgePackaging.frmMinStockReport.resources
+D:\Rajesh Dave\Software\Jodhpur Sweets Store\EdgePackaging\obj\Debug\EdgePackaging.frmOP.resources
+D:\Rajesh Dave\Software\Jodhpur Sweets Store\EdgePackaging\obj\Debug\EdgePackaging.frmPayment1.resources
+D:\Rajesh Dave\Software\Jodhpur Sweets Store\EdgePackaging\obj\Debug\EdgePackaging.frmPurchaseReport.resources
+D:\Rajesh Dave\Software\Jodhpur Sweets Store\EdgePackaging\obj\Debug\EdgePackaging.frmSalary.resources
+D:\Rajesh Dave\Software\Jodhpur Sweets Store\EdgePackaging\obj\Debug\EdgePackaging.frmSalesReport.resources
+D:\Rajesh Dave\Software\Jodhpur Sweets Store\EdgePackaging\obj\Debug\EdgePackaging.frmSelectCompany.resources
+D:\Rajesh Dave\Software\Jodhpur Sweets Store\EdgePackaging\obj\Debug\EdgePackaging.frmSelectFinYear.resources
+D:\Rajesh Dave\Software\Jodhpur Sweets Store\EdgePackaging\obj\Debug\EdgePackaging.frmStockReport.resources
+D:\Rajesh Dave\Software\Jodhpur Sweets Store\EdgePackaging\obj\Debug\EdgePackaging.frmStockReportEx.resources
+D:\Rajesh Dave\Software\Jodhpur Sweets Store\EdgePackaging\obj\Debug\EdgePackaging.frmTaxReport.resources
+D:\Rajesh Dave\Software\Jodhpur Sweets Store\EdgePackaging\obj\Debug\EdgePackaging.frmUnit.resources
+D:\Rajesh Dave\Software\Jodhpur Sweets Store\EdgePackaging\obj\Debug\EdgePackaging.frmUnit1.resources
+D:\Rajesh Dave\Software\Jodhpur Sweets Store\EdgePackaging\obj\Debug\EdgePackaging.NewPurchaseInvoice.resources
+D:\Rajesh Dave\Software\Jodhpur Sweets Store\EdgePackaging\obj\Debug\EdgePackaging.PrintReport.resources
+D:\Rajesh Dave\Software\Jodhpur Sweets Store\EdgePackaging\obj\Debug\EdgePackaging.PurchaseInvoice.resources
+D:\Rajesh Dave\Software\Jodhpur Sweets Store\EdgePackaging\obj\Debug\EdgePackaging.PurchaseInvoice1.resources
+D:\Rajesh Dave\Software\Jodhpur Sweets Store\EdgePackaging\obj\Debug\EdgePackaging.SalesForm.resources
+D:\Rajesh Dave\Software\Jodhpur Sweets Store\EdgePackaging\obj\Debug\EdgePackaging.frmCrystalReport.resources
+D:\Rajesh Dave\Software\Jodhpur Sweets Store\EdgePackaging\obj\Debug\EdgePackaging.frmmastercommon.resources
+D:\Rajesh Dave\Software\Jodhpur Sweets Store\EdgePackaging\obj\Debug\EdgePackaging.HSN_CategoryMaster.resources
+D:\Rajesh Dave\Software\Jodhpur Sweets Store\EdgePackaging\obj\Debug\EdgePackaging.frmUser.resources
+D:\Rajesh Dave\Software\Jodhpur Sweets Store\EdgePackaging\obj\Debug\EdgeVastra.Form1.resources
+D:\Rajesh Dave\Software\Jodhpur Sweets Store\EdgePackaging\obj\Debug\EdgePackaging.frmInvSubGroup.resources
+D:\Rajesh Dave\Software\Jodhpur Sweets Store\EdgePackaging\obj\Debug\EdgePackaging.frmHeadMaster.resources
+D:\Rajesh Dave\Software\Jodhpur Sweets Store\EdgePackaging\obj\Debug\EdgePackaging.frmledger.resources
+D:\Rajesh Dave\Software\Jodhpur Sweets Store\EdgePackaging\obj\Debug\EdgePackaging.frmCompanyMaster.resources
+D:\Rajesh Dave\Software\Jodhpur Sweets Store\EdgePackaging\obj\Debug\EdgeVastra.MainIndex.resources
+D:\Rajesh Dave\Software\Jodhpur Sweets Store\EdgePackaging\obj\Debug\EdgePackaging.Properties.Resources.resources
+D:\Rajesh Dave\Software\Jodhpur Sweets Store\EdgePackaging\obj\Debug\Jodhpur Sweets Store.csproj.GenerateResource.Cache
+D:\Rajesh Dave\Software\Jodhpur Sweets Store\EdgePackaging\obj\Debug\Jodhpur Sweets Store Software.exe.manifest
+D:\Rajesh Dave\Software\Jodhpur Sweets Store\EdgePackaging\obj\Debug\Jodhpur Sweets Store Software.application
+D:\Rajesh Dave\Software\Jodhpur Sweets Store\EdgePackaging\obj\Debug\Jodhpur Sweets Store Software.exe
+D:\Rajesh Dave\Software\Jodhpur Sweets Store\EdgePackaging\obj\Debug\Jodhpur Sweets Store Software.pdb
+D:\Rajesh Dave\Software\Jodhpur Sweets Store\EdgePackaging\obj\Debug\Jodhpur Sweets Store.csprojResolveAssemblyReference.cache
+D:\Rajesh Dave\Software\Jodhpur Sweets Store\EdgePackaging\obj\Debug\EdgePackaging.frmTest.resources

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EdgePackingShared", "EdgePackingShared\EdgePackingShared.csproj", "{BD6DB6F7-CE06-4BB8-8EAF-27E83DC102EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15AD", "EdgePackaging\15AD.csproj", "{FD5D9E94-2CE4-4C46-9D18-521E8F72F2EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD6DB6F7-CE06-4BB8-8EAF-27E83DC102EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD6DB6F7-CE06-4BB8-8EAF-27E83DC102EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD6DB6F7-CE06-4BB8-8EAF-27E83DC102EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD6DB6F7-CE06-4BB8-8EAF-27E83DC102EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD5D9E94-2CE4-4C46-9D18-521E8F72F2EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD5D9E94-2CE4-4C46-9D18-521E8F72F2EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD5D9E94-2CE4-4C46-9D18-521E8F72F2EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD5D9E94-2CE4-4C46-9D18-521E8F72F2EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

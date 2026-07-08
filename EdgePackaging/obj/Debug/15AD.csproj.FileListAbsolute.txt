@@ -1,0 +1,450 @@
+F:\Sharad\15 AD\EdgePacking\EdgePackaging\bin\Debug\EdgePackaging.exe.config
+F:\Sharad\15 AD\EdgePacking\EdgePackaging\obj\Debug\Interop.COMAdmin.dll
+F:\Sharad\15 AD\EdgePacking\EdgePackaging\obj\Debug\Interop.COMSVCSLib.dll
+F:\Sharad\15 AD\EdgePacking\EdgePackaging\obj\Debug\15AD.csproj.ResolveComReference.cache
+F:\Sharad\15 AD\EdgePacking\EdgePackaging\bin\Debug\EdgePackaging.exe.manifest
+F:\Sharad\15 AD\EdgePacking\EdgePackaging\bin\Debug\EdgePackaging.application
+F:\Sharad\15 AD\EdgePacking\EdgePackaging\bin\Debug\EdgePackaging.exe
+F:\Sharad\15 AD\EdgePacking\EdgePackaging\bin\Debug\EdgePackaging.pdb
+F:\Sharad\15 AD\EdgePacking\EdgePackaging\bin\Debug\EdgePackingShared.dll
+F:\Sharad\15 AD\EdgePacking\EdgePackaging\bin\Debug\EdgePackingShared.pdb
+F:\Sharad\15 AD\EdgePacking\EdgePackaging\obj\Debug\15AD.csprojResolveAssemblyReference.cache
+F:\Sharad\15 AD\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.PurchaseInvoice.resources
+F:\Sharad\15 AD\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.SalesForm.resources
+F:\Sharad\15 AD\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frmCrystalReport.resources
+F:\Sharad\15 AD\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frmmastercommon.resources
+F:\Sharad\15 AD\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frmVoucher.resources
+F:\Sharad\15 AD\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.HSN_CategoryMaster.resources
+F:\Sharad\15 AD\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frmUser.resources
+F:\Sharad\15 AD\EdgePacking\EdgePackaging\obj\Debug\EdgeVastra.Form1.resources
+F:\Sharad\15 AD\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frmInvSubGroup.resources
+F:\Sharad\15 AD\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frmHeadMaster.resources
+F:\Sharad\15 AD\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frminventory.resources
+F:\Sharad\15 AD\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frmledger.resources
+F:\Sharad\15 AD\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frmCompanyMaster.resources
+F:\Sharad\15 AD\EdgePacking\EdgePackaging\obj\Debug\EdgeVastra.MainIndex.resources
+F:\Sharad\15 AD\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.Properties.Resources.resources
+F:\Sharad\15 AD\EdgePacking\EdgePackaging\obj\Debug\15AD.csproj.GenerateResource.Cache
+F:\Sharad\15 AD\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.exe.manifest
+F:\Sharad\15 AD\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.application
+F:\Sharad\15 AD\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.exe
+F:\Sharad\15 AD\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.pdb
+D:\15AD\EdgePacking\EdgePackaging\bin\Debug\EdgePackaging.exe.config
+D:\15AD\EdgePacking\EdgePackaging\bin\Debug\EdgePackaging.exe.manifest
+D:\15AD\EdgePacking\EdgePackaging\bin\Debug\EdgePackaging.application
+D:\15AD\EdgePacking\EdgePackaging\bin\Debug\EdgePackaging.exe
+D:\15AD\EdgePacking\EdgePackaging\bin\Debug\EdgePackaging.pdb
+D:\15AD\EdgePacking\EdgePackaging\bin\Debug\EdgePackingShared.dll
+D:\15AD\EdgePacking\EdgePackaging\bin\Debug\EdgePackingShared.pdb
+D:\15AD\EdgePacking\EdgePackaging\obj\Debug\Interop.COMAdmin.dll
+D:\15AD\EdgePacking\EdgePackaging\obj\Debug\Interop.COMSVCSLib.dll
+D:\15AD\EdgePacking\EdgePackaging\obj\Debug\15AD.csproj.ResolveComReference.cache
+D:\15AD\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.PurchaseInvoice.resources
+D:\15AD\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.SalesForm.resources
+D:\15AD\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frmCrystalReport.resources
+D:\15AD\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frmmastercommon.resources
+D:\15AD\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frmVoucher.resources
+D:\15AD\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.HSN_CategoryMaster.resources
+D:\15AD\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frmUser.resources
+D:\15AD\EdgePacking\EdgePackaging\obj\Debug\EdgeVastra.Form1.resources
+D:\15AD\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frmInvSubGroup.resources
+D:\15AD\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frmHeadMaster.resources
+D:\15AD\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frminventory.resources
+D:\15AD\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frmledger.resources
+D:\15AD\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frmCompanyMaster.resources
+D:\15AD\EdgePacking\EdgePackaging\obj\Debug\EdgeVastra.MainIndex.resources
+D:\15AD\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.Properties.Resources.resources
+D:\15AD\EdgePacking\EdgePackaging\obj\Debug\15AD.csproj.GenerateResource.Cache
+D:\15AD\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.exe.manifest
+D:\15AD\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.application
+D:\15AD\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.exe
+D:\15AD\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.pdb
+D:\15AD\EdgePacking\EdgePackaging\obj\Debug\15AD.csprojResolveAssemblyReference.cache
+C:\Users\Shivam\Desktop\15AD\EdgePacking\EdgePackaging\bin\Debug\EdgePackaging.exe.config
+C:\Users\Shivam\Desktop\15AD\EdgePacking\EdgePackaging\obj\Debug\Interop.COMAdmin.dll
+C:\Users\Shivam\Desktop\15AD\EdgePacking\EdgePackaging\obj\Debug\Interop.COMSVCSLib.dll
+C:\Users\Shivam\Desktop\15AD\EdgePacking\EdgePackaging\obj\Debug\15AD.csproj.ResolveComReference.cache
+C:\Users\Shivam\Desktop\15AD\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.exe
+C:\Users\Shivam\Desktop\15AD\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.pdb
+C:\Users\Shivam\Desktop\15AD\EdgePacking\EdgePackaging\bin\Debug\EdgePackaging.exe.manifest
+C:\Users\Shivam\Desktop\15AD\EdgePacking\EdgePackaging\bin\Debug\EdgePackaging.application
+C:\Users\Shivam\Desktop\15AD\EdgePacking\EdgePackaging\bin\Debug\EdgePackaging.exe
+C:\Users\Shivam\Desktop\15AD\EdgePacking\EdgePackaging\bin\Debug\EdgePackaging.pdb
+C:\Users\Shivam\Desktop\15AD\EdgePacking\EdgePackaging\bin\Debug\EdgePackingShared.dll
+C:\Users\Shivam\Desktop\15AD\EdgePacking\EdgePackaging\bin\Debug\EdgePackingShared.pdb
+C:\Users\Shivam\Desktop\15AD\EdgePacking\EdgePackaging\obj\Debug\15AD.csprojResolveAssemblyReference.cache
+C:\Users\Shivam\Desktop\15AD\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.PurchaseInvoice.resources
+C:\Users\Shivam\Desktop\15AD\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.SalesForm.resources
+C:\Users\Shivam\Desktop\15AD\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frmCrystalReport.resources
+C:\Users\Shivam\Desktop\15AD\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frmmastercommon.resources
+C:\Users\Shivam\Desktop\15AD\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frmVoucher.resources
+C:\Users\Shivam\Desktop\15AD\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.HSN_CategoryMaster.resources
+C:\Users\Shivam\Desktop\15AD\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frmUser.resources
+C:\Users\Shivam\Desktop\15AD\EdgePacking\EdgePackaging\obj\Debug\EdgeVastra.Form1.resources
+C:\Users\Shivam\Desktop\15AD\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frmInvSubGroup.resources
+C:\Users\Shivam\Desktop\15AD\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frmHeadMaster.resources
+C:\Users\Shivam\Desktop\15AD\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frminventory.resources
+C:\Users\Shivam\Desktop\15AD\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frmledger.resources
+C:\Users\Shivam\Desktop\15AD\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frmCompanyMaster.resources
+C:\Users\Shivam\Desktop\15AD\EdgePacking\EdgePackaging\obj\Debug\EdgeVastra.MainIndex.resources
+C:\Users\Shivam\Desktop\15AD\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.Properties.Resources.resources
+C:\Users\Shivam\Desktop\15AD\EdgePacking\EdgePackaging\obj\Debug\15AD.csproj.GenerateResource.Cache
+C:\Users\Shivam\Desktop\15AD\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.exe.manifest
+C:\Users\Shivam\Desktop\15AD\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.application
+C:\Users\komal\Desktop\15adon18july\15AD\EdgePacking\EdgePackaging\bin\Debug\EdgePackaging.exe
+C:\Users\komal\Desktop\15adon18july\15AD\EdgePacking\EdgePackaging\bin\Debug\EdgePackingShared.dll
+C:\Users\komal\Desktop\15adon18july\15AD\EdgePacking\EdgePackaging\bin\Debug\EdgePackingShared.pdb
+C:\Users\komal\Desktop\15adon18july\15AD\EdgePacking\EdgePackaging\obj\Debug\15AD.csprojResolveAssemblyReference.cache
+C:\Users\komal\Desktop\15adon18july\15AD\EdgePacking\EdgePackaging\obj\Debug\Interop.COMAdmin.dll
+C:\Users\komal\Desktop\15adon18july\15AD\EdgePacking\EdgePackaging\obj\Debug\Interop.COMSVCSLib.dll
+C:\Users\komal\Desktop\15adon18july\15AD\EdgePacking\EdgePackaging\obj\Debug\15AD.csproj.ResolveComReference.cache
+C:\Users\komal\Desktop\15adon18july\15AD\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.PurchaseInvoice.resources
+C:\Users\komal\Desktop\15adon18july\15AD\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.SalesForm.resources
+C:\Users\komal\Desktop\15adon18july\15AD\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frmCrystalReport.resources
+C:\Users\komal\Desktop\15adon18july\15AD\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frmmastercommon.resources
+C:\Users\komal\Desktop\15adon18july\15AD\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frmVoucher.resources
+C:\Users\komal\Desktop\15adon18july\15AD\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.HSN_CategoryMaster.resources
+C:\Users\komal\Desktop\15adon18july\15AD\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frmUser.resources
+C:\Users\komal\Desktop\15adon18july\15AD\EdgePacking\EdgePackaging\obj\Debug\EdgeVastra.Form1.resources
+C:\Users\komal\Desktop\15adon18july\15AD\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frmInvSubGroup.resources
+C:\Users\komal\Desktop\15adon18july\15AD\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frmHeadMaster.resources
+C:\Users\komal\Desktop\15adon18july\15AD\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frminventory.resources
+C:\Users\komal\Desktop\15adon18july\15AD\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frmledger.resources
+C:\Users\komal\Desktop\15adon18july\15AD\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.frmCompanyMaster.resources
+C:\Users\komal\Desktop\15adon18july\15AD\EdgePacking\EdgePackaging\obj\Debug\EdgeVastra.MainIndex.resources
+C:\Users\komal\Desktop\15adon18july\15AD\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.Properties.Resources.resources
+C:\Users\komal\Desktop\15adon18july\15AD\EdgePacking\EdgePackaging\obj\Debug\15AD.csproj.GenerateResource.Cache
+C:\Users\komal\Desktop\15adon18july\15AD\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.exe.manifest
+C:\Users\komal\Desktop\15adon18july\15AD\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.application
+C:\Users\komal\Desktop\15adon18july\15AD\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.exe
+C:\Users\komal\Desktop\15adon18july\15AD\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.pdb
+C:\Users\komal\Desktop\15adon18july\15AD\EdgePacking\EdgePackaging\bin\Debug\EdgePackaging.exe.config
+C:\Users\komal\Desktop\15adon18july\15AD\EdgePacking\EdgePackaging\bin\Debug\EdgePackaging.exe.manifest
+C:\Users\komal\Desktop\15adon18july\15AD\EdgePacking\EdgePackaging\bin\Debug\EdgePackaging.application
+C:\Users\komal\Desktop\15adon18july\15AD\EdgePacking\EdgePackaging\bin\Debug\EdgePackaging.pdb
+C:\Users\komal\Desktop\15adon18july\15AD\EdgePacking\EdgePackaging\obj\Debug\EdgePackaging.PrintReport.resources
+C:\Users\Lenovo\Desktop\15 AD New\15 AD\EdgePackaging\obj\Debug\Interop.COMAdmin.dll
+C:\Users\Lenovo\Desktop\15 AD New\15 AD\EdgePackaging\obj\Debug\Interop.COMSVCSLib.dll
+C:\Users\Lenovo\Desktop\15 AD New\15 AD\EdgePackaging\obj\Debug\15AD.csproj.ResolveComReference.cache
+C:\Users\Lenovo\Desktop\15 AD New\15 AD\EdgePackaging\bin\Debug\15 AD.exe.config
+C:\Users\Lenovo\Desktop\15 AD New\15 AD\EdgePackaging\bin\Debug\15 AD.exe.manifest
+C:\Users\Lenovo\Desktop\15 AD New\15 AD\EdgePackaging\bin\Debug\15 AD.application
+C:\Users\Lenovo\Desktop\15 AD New\15 AD\EdgePackaging\bin\Debug\15 AD.exe
+C:\Users\Lenovo\Desktop\15 AD New\15 AD\EdgePackaging\bin\Debug\15 AD.pdb
+C:\Users\Lenovo\Desktop\15 AD New\15 AD\EdgePackaging\bin\Debug\EdgePackingShared.dll
+C:\Users\Lenovo\Desktop\15 AD New\15 AD\EdgePackaging\bin\Debug\EdgePackingShared.pdb
+C:\Users\Lenovo\Desktop\15 AD New\15 AD\EdgePackaging\obj\Debug\15AD.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\15 AD New\15 AD\EdgePackaging\obj\Debug\EdgePackaging.PrintReport.resources
+C:\Users\Lenovo\Desktop\15 AD New\15 AD\EdgePackaging\obj\Debug\EdgePackaging.PurchaseInvoice.resources
+C:\Users\Lenovo\Desktop\15 AD New\15 AD\EdgePackaging\obj\Debug\EdgePackaging.SalesForm.resources
+C:\Users\Lenovo\Desktop\15 AD New\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmCrystalReport.resources
+C:\Users\Lenovo\Desktop\15 AD New\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmmastercommon.resources
+C:\Users\Lenovo\Desktop\15 AD New\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmVoucher.resources
+C:\Users\Lenovo\Desktop\15 AD New\15 AD\EdgePackaging\obj\Debug\EdgePackaging.HSN_CategoryMaster.resources
+C:\Users\Lenovo\Desktop\15 AD New\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmUser.resources
+C:\Users\Lenovo\Desktop\15 AD New\15 AD\EdgePackaging\obj\Debug\EdgeVastra.Form1.resources
+C:\Users\Lenovo\Desktop\15 AD New\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmInvSubGroup.resources
+C:\Users\Lenovo\Desktop\15 AD New\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmHeadMaster.resources
+C:\Users\Lenovo\Desktop\15 AD New\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frminventory.resources
+C:\Users\Lenovo\Desktop\15 AD New\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmledger.resources
+C:\Users\Lenovo\Desktop\15 AD New\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmCompanyMaster.resources
+C:\Users\Lenovo\Desktop\15 AD New\15 AD\EdgePackaging\obj\Debug\EdgeVastra.MainIndex.resources
+C:\Users\Lenovo\Desktop\15 AD New\15 AD\EdgePackaging\obj\Debug\EdgePackaging.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\15 AD New\15 AD\EdgePackaging\obj\Debug\15AD.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\15 AD New\15 AD\EdgePackaging\obj\Debug\15 AD.exe.manifest
+C:\Users\Lenovo\Desktop\15 AD New\15 AD\EdgePackaging\obj\Debug\15 AD.application
+C:\Users\Lenovo\Desktop\15 AD New\15 AD\EdgePackaging\obj\Debug\15 AD.exe
+C:\Users\Lenovo\Desktop\15 AD New\15 AD\EdgePackaging\obj\Debug\15 AD.pdb
+F:\rajesh\15 AD New - Copy\15 AD\EdgePackaging\bin\Debug\15 AD.exe.config
+F:\rajesh\15 AD New - Copy\15 AD\EdgePackaging\obj\Debug\Interop.COMAdmin.dll
+F:\rajesh\15 AD New - Copy\15 AD\EdgePackaging\obj\Debug\Interop.COMSVCSLib.dll
+F:\rajesh\15 AD New - Copy\15 AD\EdgePackaging\obj\Debug\15AD.csproj.ResolveComReference.cache
+F:\rajesh\15 AD New - Copy\15 AD\EdgePackaging\obj\Debug\15 AD.exe
+F:\rajesh\15 AD New - Copy\15 AD\EdgePackaging\obj\Debug\15 AD.pdb
+F:\rajesh\15 AD New - Copy\15 AD\EdgePackaging\bin\Debug\15 AD.exe.manifest
+F:\rajesh\15 AD New - Copy\15 AD\EdgePackaging\bin\Debug\15 AD.application
+F:\rajesh\15 AD New - Copy\15 AD\EdgePackaging\bin\Debug\15 AD.exe
+F:\rajesh\15 AD New - Copy\15 AD\EdgePackaging\bin\Debug\15 AD.pdb
+F:\rajesh\15 AD New - Copy\15 AD\EdgePackaging\bin\Debug\EdgePackingShared.dll
+F:\rajesh\15 AD New - Copy\15 AD\EdgePackaging\bin\Debug\EdgePackingShared.pdb
+F:\rajesh\15 AD New - Copy\15 AD\EdgePackaging\obj\Debug\15AD.csprojResolveAssemblyReference.cache
+F:\rajesh\15 AD New - Copy\15 AD\EdgePackaging\obj\Debug\EdgePackaging.PrintReport.resources
+F:\rajesh\15 AD New - Copy\15 AD\EdgePackaging\obj\Debug\EdgePackaging.PurchaseInvoice.resources
+F:\rajesh\15 AD New - Copy\15 AD\EdgePackaging\obj\Debug\EdgePackaging.SalesForm.resources
+F:\rajesh\15 AD New - Copy\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmCrystalReport.resources
+F:\rajesh\15 AD New - Copy\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmmastercommon.resources
+F:\rajesh\15 AD New - Copy\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmVoucher.resources
+F:\rajesh\15 AD New - Copy\15 AD\EdgePackaging\obj\Debug\EdgePackaging.HSN_CategoryMaster.resources
+F:\rajesh\15 AD New - Copy\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmUser.resources
+F:\rajesh\15 AD New - Copy\15 AD\EdgePackaging\obj\Debug\EdgeVastra.Form1.resources
+F:\rajesh\15 AD New - Copy\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmInvSubGroup.resources
+F:\rajesh\15 AD New - Copy\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmHeadMaster.resources
+F:\rajesh\15 AD New - Copy\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frminventory.resources
+F:\rajesh\15 AD New - Copy\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmledger.resources
+F:\rajesh\15 AD New - Copy\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmCompanyMaster.resources
+F:\rajesh\15 AD New - Copy\15 AD\EdgePackaging\obj\Debug\EdgeVastra.MainIndex.resources
+F:\rajesh\15 AD New - Copy\15 AD\EdgePackaging\obj\Debug\EdgePackaging.Properties.Resources.resources
+F:\rajesh\15 AD New - Copy\15 AD\EdgePackaging\obj\Debug\15AD.csproj.GenerateResource.Cache
+F:\rajesh\15 AD New - Copy\15 AD\EdgePackaging\obj\Debug\15 AD.exe.manifest
+F:\rajesh\15 AD New - Copy\15 AD\EdgePackaging\obj\Debug\15 AD.application
+C:\Users\Lenovo\Desktop\15 AD\15 AD\EdgePackaging\bin\Debug\15 AD.exe.config
+C:\Users\Lenovo\Desktop\15 AD\15 AD\EdgePackaging\obj\Debug\Interop.COMAdmin.dll
+C:\Users\Lenovo\Desktop\15 AD\15 AD\EdgePackaging\obj\Debug\Interop.COMSVCSLib.dll
+C:\Users\Lenovo\Desktop\15 AD\15 AD\EdgePackaging\obj\Debug\15AD.csproj.ResolveComReference.cache
+C:\Users\Lenovo\Desktop\15 AD\15 AD\EdgePackaging\obj\Debug\15 AD.exe
+C:\Users\Lenovo\Desktop\15 AD\15 AD\EdgePackaging\obj\Debug\15 AD.pdb
+C:\Users\Lenovo\Desktop\15 AD\15 AD\EdgePackaging\bin\Debug\15 AD.exe.manifest
+C:\Users\Lenovo\Desktop\15 AD\15 AD\EdgePackaging\bin\Debug\15 AD.application
+C:\Users\Lenovo\Desktop\15 AD\15 AD\EdgePackaging\bin\Debug\15 AD.exe
+C:\Users\Lenovo\Desktop\15 AD\15 AD\EdgePackaging\bin\Debug\15 AD.pdb
+C:\Users\Lenovo\Desktop\15 AD\15 AD\EdgePackaging\bin\Debug\EdgePackingShared.dll
+C:\Users\Lenovo\Desktop\15 AD\15 AD\EdgePackaging\bin\Debug\EdgePackingShared.pdb
+C:\Users\Lenovo\Desktop\15 AD\15 AD\EdgePackaging\obj\Debug\15AD.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\15 AD\15 AD\EdgePackaging\obj\Debug\EdgePackaging.PrintReport.resources
+C:\Users\Lenovo\Desktop\15 AD\15 AD\EdgePackaging\obj\Debug\EdgePackaging.PurchaseInvoice.resources
+C:\Users\Lenovo\Desktop\15 AD\15 AD\EdgePackaging\obj\Debug\EdgePackaging.SalesForm.resources
+C:\Users\Lenovo\Desktop\15 AD\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmCrystalReport.resources
+C:\Users\Lenovo\Desktop\15 AD\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmmastercommon.resources
+C:\Users\Lenovo\Desktop\15 AD\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmVoucher.resources
+C:\Users\Lenovo\Desktop\15 AD\15 AD\EdgePackaging\obj\Debug\EdgePackaging.HSN_CategoryMaster.resources
+C:\Users\Lenovo\Desktop\15 AD\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmUser.resources
+C:\Users\Lenovo\Desktop\15 AD\15 AD\EdgePackaging\obj\Debug\EdgeVastra.Form1.resources
+C:\Users\Lenovo\Desktop\15 AD\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmInvSubGroup.resources
+C:\Users\Lenovo\Desktop\15 AD\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmHeadMaster.resources
+C:\Users\Lenovo\Desktop\15 AD\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frminventory.resources
+C:\Users\Lenovo\Desktop\15 AD\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmledger.resources
+C:\Users\Lenovo\Desktop\15 AD\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmCompanyMaster.resources
+C:\Users\Lenovo\Desktop\15 AD\15 AD\EdgePackaging\obj\Debug\EdgeVastra.MainIndex.resources
+C:\Users\Lenovo\Desktop\15 AD\15 AD\EdgePackaging\obj\Debug\EdgePackaging.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\15 AD\15 AD\EdgePackaging\obj\Debug\15AD.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\15 AD\15 AD\EdgePackaging\obj\Debug\15 AD.exe.manifest
+C:\Users\Lenovo\Desktop\15 AD\15 AD\EdgePackaging\obj\Debug\15 AD.application
+C:\Users\Lenovo\Desktop\15 AD\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmStockReport.resources
+E:\15 AD\15 AD\EdgePackaging\bin\Debug\15 AD.exe.config
+E:\15 AD\15 AD\EdgePackaging\bin\Debug\15 AD.exe.manifest
+E:\15 AD\15 AD\EdgePackaging\bin\Debug\15 AD.application
+E:\15 AD\15 AD\EdgePackaging\bin\Debug\15 AD.exe
+E:\15 AD\15 AD\EdgePackaging\bin\Debug\15 AD.pdb
+E:\15 AD\15 AD\EdgePackaging\bin\Debug\EdgePackingShared.dll
+E:\15 AD\15 AD\EdgePackaging\bin\Debug\EdgePackingShared.pdb
+E:\15 AD\15 AD\EdgePackaging\obj\Debug\15AD.csprojResolveAssemblyReference.cache
+E:\15 AD\15 AD\EdgePackaging\obj\Debug\Interop.COMAdmin.dll
+E:\15 AD\15 AD\EdgePackaging\obj\Debug\Interop.COMSVCSLib.dll
+E:\15 AD\15 AD\EdgePackaging\obj\Debug\15AD.csproj.ResolveComReference.cache
+E:\15 AD\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frminventory.resources
+E:\15 AD\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmStockReport.resources
+E:\15 AD\15 AD\EdgePackaging\obj\Debug\EdgePackaging.PrintReport.resources
+E:\15 AD\15 AD\EdgePackaging\obj\Debug\EdgePackaging.PurchaseInvoice.resources
+E:\15 AD\15 AD\EdgePackaging\obj\Debug\EdgePackaging.SalesForm.resources
+E:\15 AD\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmCrystalReport.resources
+E:\15 AD\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmmastercommon.resources
+E:\15 AD\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmVoucher.resources
+E:\15 AD\15 AD\EdgePackaging\obj\Debug\EdgePackaging.HSN_CategoryMaster.resources
+E:\15 AD\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmUser.resources
+E:\15 AD\15 AD\EdgePackaging\obj\Debug\EdgeVastra.Form1.resources
+E:\15 AD\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmInvSubGroup.resources
+E:\15 AD\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmHeadMaster.resources
+E:\15 AD\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmledger.resources
+E:\15 AD\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmCompanyMaster.resources
+E:\15 AD\15 AD\EdgePackaging\obj\Debug\EdgeVastra.MainIndex.resources
+E:\15 AD\15 AD\EdgePackaging\obj\Debug\EdgePackaging.Properties.Resources.resources
+E:\15 AD\15 AD\EdgePackaging\obj\Debug\15AD.csproj.GenerateResource.Cache
+E:\15 AD\15 AD\EdgePackaging\obj\Debug\15 AD.exe.manifest
+E:\15 AD\15 AD\EdgePackaging\obj\Debug\15 AD.application
+E:\15 AD\15 AD\EdgePackaging\obj\Debug\15 AD.exe
+E:\15 AD\15 AD\EdgePackaging\obj\Debug\15 AD.pdb
+F:\rajesh\15 AD\15 AD\EdgePackaging\bin\Debug\15 AD.exe.config
+F:\rajesh\15 AD\15 AD\EdgePackaging\bin\Debug\15 AD.exe.manifest
+F:\rajesh\15 AD\15 AD\EdgePackaging\bin\Debug\15 AD.application
+F:\rajesh\15 AD\15 AD\EdgePackaging\bin\Debug\15 AD.exe
+F:\rajesh\15 AD\15 AD\EdgePackaging\bin\Debug\15 AD.pdb
+F:\rajesh\15 AD\15 AD\EdgePackaging\bin\Debug\EdgePackingShared.dll
+F:\rajesh\15 AD\15 AD\EdgePackaging\bin\Debug\EdgePackingShared.pdb
+F:\rajesh\15 AD\15 AD\EdgePackaging\obj\Debug\15AD.csprojResolveAssemblyReference.cache
+F:\rajesh\15 AD\15 AD\EdgePackaging\obj\Debug\Interop.COMAdmin.dll
+F:\rajesh\15 AD\15 AD\EdgePackaging\obj\Debug\Interop.COMSVCSLib.dll
+F:\rajesh\15 AD\15 AD\EdgePackaging\obj\Debug\15AD.csproj.ResolveComReference.cache
+F:\rajesh\15 AD\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frminventory.resources
+F:\rajesh\15 AD\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmSalesReport.resources
+F:\rajesh\15 AD\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmStockReport.resources
+F:\rajesh\15 AD\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmTaxReport.resources
+F:\rajesh\15 AD\15 AD\EdgePackaging\obj\Debug\EdgePackaging.PrintReport.resources
+F:\rajesh\15 AD\15 AD\EdgePackaging\obj\Debug\EdgePackaging.PurchaseInvoice.resources
+F:\rajesh\15 AD\15 AD\EdgePackaging\obj\Debug\EdgePackaging.SalesForm.resources
+F:\rajesh\15 AD\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmCrystalReport.resources
+F:\rajesh\15 AD\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmmastercommon.resources
+F:\rajesh\15 AD\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmVoucher.resources
+F:\rajesh\15 AD\15 AD\EdgePackaging\obj\Debug\EdgePackaging.HSN_CategoryMaster.resources
+F:\rajesh\15 AD\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmUser.resources
+F:\rajesh\15 AD\15 AD\EdgePackaging\obj\Debug\EdgeVastra.Form1.resources
+F:\rajesh\15 AD\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmInvSubGroup.resources
+F:\rajesh\15 AD\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmHeadMaster.resources
+F:\rajesh\15 AD\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmledger.resources
+F:\rajesh\15 AD\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmCompanyMaster.resources
+F:\rajesh\15 AD\15 AD\EdgePackaging\obj\Debug\EdgeVastra.MainIndex.resources
+F:\rajesh\15 AD\15 AD\EdgePackaging\obj\Debug\EdgePackaging.Properties.Resources.resources
+F:\rajesh\15 AD\15 AD\EdgePackaging\obj\Debug\15AD.csproj.GenerateResource.Cache
+F:\rajesh\15 AD\15 AD\EdgePackaging\obj\Debug\15 AD.exe.manifest
+F:\rajesh\15 AD\15 AD\EdgePackaging\obj\Debug\15 AD.application
+F:\rajesh\15 AD\15 AD\EdgePackaging\obj\Debug\15 AD.exe
+F:\rajesh\15 AD\15 AD\EdgePackaging\obj\Debug\15 AD.pdb
+E:\Sharad\15 AD\EdgePackaging\bin\Debug\15 AD.exe.config
+E:\Sharad\15 AD\EdgePackaging\bin\Debug\15 AD.exe.manifest
+E:\Sharad\15 AD\EdgePackaging\bin\Debug\15 AD.application
+E:\Sharad\15 AD\EdgePackaging\bin\Debug\15 AD.exe
+E:\Sharad\15 AD\EdgePackaging\bin\Debug\15 AD.pdb
+E:\Sharad\15 AD\EdgePackaging\bin\Debug\EdgePackingShared.dll
+E:\Sharad\15 AD\EdgePackaging\bin\Debug\EdgePackingShared.pdb
+E:\Sharad\15 AD\EdgePackaging\obj\Debug\15AD.csprojResolveAssemblyReference.cache
+E:\Sharad\15 AD\EdgePackaging\obj\Debug\Interop.COMAdmin.dll
+E:\Sharad\15 AD\EdgePackaging\obj\Debug\Interop.COMSVCSLib.dll
+E:\Sharad\15 AD\EdgePackaging\obj\Debug\15AD.csproj.ResolveComReference.cache
+E:\Sharad\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmBarcodePrinting.resources
+E:\Sharad\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frminventory.resources
+E:\Sharad\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmSalesReport.resources
+E:\Sharad\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmSelectCompany.resources
+E:\Sharad\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmSelectFinYear.resources
+E:\Sharad\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmStockReport.resources
+E:\Sharad\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmTaxReport.resources
+E:\Sharad\15 AD\EdgePackaging\obj\Debug\EdgePackaging.PrintReport.resources
+E:\Sharad\15 AD\EdgePackaging\obj\Debug\EdgePackaging.PurchaseInvoice.resources
+E:\Sharad\15 AD\EdgePackaging\obj\Debug\EdgePackaging.SalesForm.resources
+E:\Sharad\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmCrystalReport.resources
+E:\Sharad\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmmastercommon.resources
+E:\Sharad\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmVoucher.resources
+E:\Sharad\15 AD\EdgePackaging\obj\Debug\EdgePackaging.HSN_CategoryMaster.resources
+E:\Sharad\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmUser.resources
+E:\Sharad\15 AD\EdgePackaging\obj\Debug\EdgeVastra.Form1.resources
+E:\Sharad\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmInvSubGroup.resources
+E:\Sharad\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmHeadMaster.resources
+E:\Sharad\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmledger.resources
+E:\Sharad\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmCompanyMaster.resources
+E:\Sharad\15 AD\EdgePackaging\obj\Debug\EdgeVastra.MainIndex.resources
+E:\Sharad\15 AD\EdgePackaging\obj\Debug\EdgePackaging.Properties.Resources.resources
+E:\Sharad\15 AD\EdgePackaging\obj\Debug\15AD.csproj.GenerateResource.Cache
+E:\Sharad\15 AD\EdgePackaging\obj\Debug\15 AD.exe.manifest
+E:\Sharad\15 AD\EdgePackaging\obj\Debug\15 AD.application
+E:\Sharad\15 AD\EdgePackaging\obj\Debug\15 AD.exe
+E:\Sharad\15 AD\EdgePackaging\obj\Debug\15 AD.pdb
+E:\Sharad\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmPurchaseReport.resources
+F:\rajesh\15 AD\EdgePackaging\bin\Debug\15 AD.exe
+F:\rajesh\15 AD\EdgePackaging\bin\Debug\EdgePackingShared.dll
+F:\rajesh\15 AD\EdgePackaging\bin\Debug\EdgePackingShared.pdb
+F:\rajesh\15 AD\EdgePackaging\obj\Debug\15AD.csprojResolveAssemblyReference.cache
+F:\rajesh\15 AD\EdgePackaging\obj\Debug\Interop.COMAdmin.dll
+F:\rajesh\15 AD\EdgePackaging\obj\Debug\Interop.COMSVCSLib.dll
+F:\rajesh\15 AD\EdgePackaging\obj\Debug\15AD.csproj.ResolveComReference.cache
+F:\rajesh\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmAllBillPrint.resources
+F:\rajesh\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmBarcodePrinting.resources
+F:\rajesh\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frminventory.resources
+F:\rajesh\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmPurchaseReport.resources
+F:\rajesh\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmSalesReport.resources
+F:\rajesh\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmSelectCompany.resources
+F:\rajesh\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmSelectFinYear.resources
+F:\rajesh\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmStockReport.resources
+F:\rajesh\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmTaxReport.resources
+F:\rajesh\15 AD\EdgePackaging\obj\Debug\EdgePackaging.PrintReport.resources
+F:\rajesh\15 AD\EdgePackaging\obj\Debug\EdgePackaging.PurchaseInvoice.resources
+F:\rajesh\15 AD\EdgePackaging\obj\Debug\EdgePackaging.SalesForm.resources
+F:\rajesh\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmCrystalReport.resources
+F:\rajesh\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmmastercommon.resources
+F:\rajesh\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmVoucher.resources
+F:\rajesh\15 AD\EdgePackaging\obj\Debug\EdgePackaging.HSN_CategoryMaster.resources
+F:\rajesh\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmUser.resources
+F:\rajesh\15 AD\EdgePackaging\obj\Debug\EdgeVastra.Form1.resources
+F:\rajesh\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmInvSubGroup.resources
+F:\rajesh\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmHeadMaster.resources
+F:\rajesh\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmledger.resources
+F:\rajesh\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmCompanyMaster.resources
+F:\rajesh\15 AD\EdgePackaging\obj\Debug\EdgeVastra.MainIndex.resources
+F:\rajesh\15 AD\EdgePackaging\obj\Debug\EdgePackaging.Properties.Resources.resources
+F:\rajesh\15 AD\EdgePackaging\obj\Debug\15AD.csproj.GenerateResource.Cache
+F:\rajesh\15 AD\EdgePackaging\obj\Debug\15 AD.exe.manifest
+F:\rajesh\15 AD\EdgePackaging\obj\Debug\15 AD.application
+F:\rajesh\15 AD\EdgePackaging\obj\Debug\15 AD.exe
+F:\rajesh\15 AD\EdgePackaging\obj\Debug\15 AD.pdb
+F:\rajesh\15 AD\EdgePackaging\bin\Debug\15 AD.exe.config
+F:\rajesh\15 AD\EdgePackaging\bin\Debug\15 AD.exe.manifest
+F:\rajesh\15 AD\EdgePackaging\bin\Debug\15 AD.application
+F:\rajesh\15 AD\EdgePackaging\bin\Debug\15 AD.pdb
+F:\rajesh\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmHSNReport.resources
+E:\Rajesh Dave\15 AD\EdgePackaging\bin\Debug\15 AD.exe.config
+E:\Rajesh Dave\15 AD\EdgePackaging\obj\Debug\Interop.COMAdmin.dll
+E:\Rajesh Dave\15 AD\EdgePackaging\obj\Debug\Interop.COMSVCSLib.dll
+E:\Rajesh Dave\15 AD\EdgePackaging\obj\Debug\15AD.csproj.ResolveComReference.cache
+E:\Rajesh Dave\15 AD\EdgePackaging\obj\Debug\15 AD.exe
+E:\Rajesh Dave\15 AD\EdgePackaging\obj\Debug\15 AD.pdb
+E:\E DATA\Rajesh Dave\15 AD\EdgePackaging\bin\Debug\15 AD.exe.config
+E:\E DATA\Rajesh Dave\15 AD\EdgePackaging\obj\Debug\Interop.COMAdmin.dll
+E:\E DATA\Rajesh Dave\15 AD\EdgePackaging\obj\Debug\Interop.COMSVCSLib.dll
+E:\E DATA\Rajesh Dave\15 AD\EdgePackaging\obj\Debug\15AD.csproj.ResolveComReference.cache
+E:\E DATA\Rajesh Dave\15 AD\EdgePackaging\obj\Debug\15 AD.exe
+E:\E DATA\Rajesh Dave\15 AD\EdgePackaging\obj\Debug\15 AD.pdb
+E:\E DATA\Rajesh Dave\15 AD\EdgePackaging\obj\Debug\15AD.csprojResolveAssemblyReference.cache
+E:\E DATA\Rajesh Dave\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmAllBillPrint.resources
+E:\E DATA\Rajesh Dave\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmBarcodePrinting.resources
+E:\E DATA\Rajesh Dave\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmHSNReport.resources
+E:\E DATA\Rajesh Dave\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frminventory.resources
+E:\E DATA\Rajesh Dave\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmPurchaseReport.resources
+E:\E DATA\Rajesh Dave\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmSalesReport.resources
+E:\E DATA\Rajesh Dave\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmSelectCompany.resources
+E:\E DATA\Rajesh Dave\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmSelectFinYear.resources
+E:\E DATA\Rajesh Dave\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmStockReport.resources
+E:\E DATA\Rajesh Dave\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmTaxReport.resources
+E:\E DATA\Rajesh Dave\15 AD\EdgePackaging\obj\Debug\EdgePackaging.PrintReport.resources
+E:\E DATA\Rajesh Dave\15 AD\EdgePackaging\obj\Debug\EdgePackaging.PurchaseInvoice.resources
+E:\E DATA\Rajesh Dave\15 AD\EdgePackaging\obj\Debug\EdgePackaging.SalesForm.resources
+E:\E DATA\Rajesh Dave\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmCrystalReport.resources
+E:\E DATA\Rajesh Dave\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmmastercommon.resources
+E:\E DATA\Rajesh Dave\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmVoucher.resources
+E:\E DATA\Rajesh Dave\15 AD\EdgePackaging\obj\Debug\EdgePackaging.HSN_CategoryMaster.resources
+E:\E DATA\Rajesh Dave\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmUser.resources
+E:\E DATA\Rajesh Dave\15 AD\EdgePackaging\obj\Debug\EdgeVastra.Form1.resources
+E:\E DATA\Rajesh Dave\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmInvSubGroup.resources
+E:\E DATA\Rajesh Dave\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmHeadMaster.resources
+E:\E DATA\Rajesh Dave\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmledger.resources
+E:\E DATA\Rajesh Dave\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmCompanyMaster.resources
+E:\E DATA\Rajesh Dave\15 AD\EdgePackaging\obj\Debug\EdgeVastra.MainIndex.resources
+E:\E DATA\Rajesh Dave\15 AD\EdgePackaging\obj\Debug\EdgePackaging.Properties.Resources.resources
+E:\E DATA\Rajesh Dave\15 AD\EdgePackaging\obj\Debug\15AD.csproj.GenerateResource.Cache
+D:\Rajesh Dave\15 AD\EdgePackaging\bin\Debug\15 AD.exe.config
+D:\Rajesh Dave\15 AD\EdgePackaging\bin\Debug\15 AD.exe.manifest
+D:\Rajesh Dave\15 AD\EdgePackaging\bin\Debug\15 AD.application
+D:\Rajesh Dave\15 AD\EdgePackaging\bin\Debug\15 AD.exe
+D:\Rajesh Dave\15 AD\EdgePackaging\bin\Debug\15 AD.pdb
+D:\Rajesh Dave\15 AD\EdgePackaging\bin\Debug\EdgePackingShared.dll
+D:\Rajesh Dave\15 AD\EdgePackaging\bin\Debug\EdgePackingShared.pdb
+D:\Rajesh Dave\15 AD\EdgePackaging\obj\Debug\15AD.csprojResolveAssemblyReference.cache
+D:\Rajesh Dave\15 AD\EdgePackaging\obj\Debug\Interop.COMAdmin.dll
+D:\Rajesh Dave\15 AD\EdgePackaging\obj\Debug\Interop.COMSVCSLib.dll
+D:\Rajesh Dave\15 AD\EdgePackaging\obj\Debug\15AD.csproj.ResolveComReference.cache
+D:\Rajesh Dave\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmAllBillPrint.resources
+D:\Rajesh Dave\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmBarcodePrinting.resources
+D:\Rajesh Dave\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmDayEnd.resources
+D:\Rajesh Dave\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmHSNReport.resources
+D:\Rajesh Dave\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frminventory.resources
+D:\Rajesh Dave\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmPurchaseReport.resources
+D:\Rajesh Dave\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmSalesReport.resources
+D:\Rajesh Dave\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmSelectCompany.resources
+D:\Rajesh Dave\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmSelectFinYear.resources
+D:\Rajesh Dave\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmStockReport.resources
+D:\Rajesh Dave\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmTaxReport.resources
+D:\Rajesh Dave\15 AD\EdgePackaging\obj\Debug\EdgePackaging.PrintReport.resources
+D:\Rajesh Dave\15 AD\EdgePackaging\obj\Debug\EdgePackaging.PurchaseInvoice.resources
+D:\Rajesh Dave\15 AD\EdgePackaging\obj\Debug\EdgePackaging.SalesForm.resources
+D:\Rajesh Dave\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmCrystalReport.resources
+D:\Rajesh Dave\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmmastercommon.resources
+D:\Rajesh Dave\15 AD\EdgePackaging\obj\Debug\EdgePackaging.HSN_CategoryMaster.resources
+D:\Rajesh Dave\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmUser.resources
+D:\Rajesh Dave\15 AD\EdgePackaging\obj\Debug\EdgeVastra.Form1.resources
+D:\Rajesh Dave\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmInvSubGroup.resources
+D:\Rajesh Dave\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmHeadMaster.resources
+D:\Rajesh Dave\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmledger.resources
+D:\Rajesh Dave\15 AD\EdgePackaging\obj\Debug\EdgePackaging.frmCompanyMaster.resources
+D:\Rajesh Dave\15 AD\EdgePackaging\obj\Debug\EdgeVastra.MainIndex.resources
+D:\Rajesh Dave\15 AD\EdgePackaging\obj\Debug\EdgePackaging.Properties.Resources.resources
+D:\Rajesh Dave\15 AD\EdgePackaging\obj\Debug\15AD.csproj.GenerateResource.Cache
+D:\Rajesh Dave\15 AD\EdgePackaging\obj\Debug\15 AD.exe.manifest
+D:\Rajesh Dave\15 AD\EdgePackaging\obj\Debug\15 AD.application
+D:\Rajesh Dave\15 AD\EdgePackaging\obj\Debug\15 AD.exe
+D:\Rajesh Dave\15 AD\EdgePackaging\obj\Debug\15 AD.pdb
